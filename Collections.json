@@ -514,5 +514,9 @@
   {
     "label": "Red",
     "value": "লাল"
+  },
+  {
+    "label": "Yellow",
+    "value": "হলুদ"
   }
 ]
