@@ -522,5 +522,9 @@
   {
     "label": "White",
     "value": "সাদা"
+  },
+  {
+    "label": "Gray",
+    "value": "ধূসর"
   }
 ]
