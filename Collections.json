@@ -510,5 +510,9 @@
   {
     "label": "Black",
     "value": "কাল"
+  },
+  {
+    "label": "Red",
+    "value": "লাল"
   }
 ]
