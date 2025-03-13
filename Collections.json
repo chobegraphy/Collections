@@ -1,128 +1,514 @@
 [
-    { "label": "Abstract", "value": "অ্যাবস্ট্রাক্ট" },
-    { "label": "Aerial", "value": "এয়ারিয়াল" },
-    { "label": "Animals", "value": "প্রাণী" },
-    { "label": "Architecture", "value": "স্থাপত্য" },
-    { "label": "Astrophotography", "value": "খগোল ফটোগ্রাফি" },
-    { "label": "Automotive", "value": "অটোমোটিভ" },
-    { "label": "Baby", "value": "শিশু" },
-    { "label": "Black and White", "value": "সাদা-কালো" },
-    { "label": "Boudoir", "value": "বউডোয়ার" },
-    { "label": "Business", "value": "ব্যবসা" },
-    { "label": "Beach", "value": "সৈকত" },
-    { "label": "Boy", "value": "ছেলে" },
-    { "label": "Cat", "value": "বিড়াল" },
-    { "label": "Cloudy", "value": "মেঘলা" },
-    { "label": "Candid", "value": "ক্যান্ডিড" },
-    { "label": "Child", "value": "শিশু" },
-    { "label": "Childhood", "value": "শৈশব" },
-    { "label": "Cityscape", "value": "শহরের দৃশ্য" },
-    { "label": "Commercial", "value": "বাণিজ্যিক" },
-    { "label": "Conceptual", "value": "ধারণাগত" },
-    { "label": "Concert", "value": "কনসার্ট" },
-    { "label": "Cultural", "value": "সাংস্কৃতিক" },
-    { "label": "Dance", "value": "নৃত্য" },
-    { "label": "Documentary", "value": "ডকুমেন্টারি" },
-    { "label": "Drone", "value": "ড্রোন" },
-    { "label": "Dark", "value": "অন্ধকার" },
-    { "label": "Editorial", "value": "সম্পাদনা" },
-    { "label": "Event", "value": "ইভেন্ট" },
-    { "label": "Family", "value": "পরিবার" },
-    { "label": "Fashion", "value": "ফ্যাশন" },
-    { "label": "Festival", "value": "উৎসব" },
-    { "label": "Film Photography", "value": "ফিল্ম ফটোগ্রাফি" },
-    { "label": "Floral", "value": "ফুল" },
-    { "label": "Flower", "value": "ফুল" },
-    { "label": "Fine Art", "value": "ফাইন আর্ট" },
-    { "label": "Fireworks", "value": "আতশবাজি" },
-    { "label": "Fitness", "value": "ফিটনেস" },
-    { "label": "Fruit", "value": "ফল" },
-    { "label": "Furniture", "value": "ফার্নিচার" },
-    { "label": "Food", "value": "খাবার" },
-    { "label": "Forests", "value": "বন" },
-    { "label": "Glamour", "value": "গ্ল্যামার" },
-    { "label": "Golden Hour", "value": "গোল্ডেন আওয়ার" },
-    { "label": "Headshots", "value": "হেডশট" },
-    { "label": "Historic", "value": "ঐতিহাসিক" },
-    { "label": "Hiking", "value": "হাইকিং" },
-    { "label": "Holiday", "value": "ছুটি" },
-    { "label": "Industrial", "value": "শিল্প" },
-    { "label": "Infrared", "value": "ইনফ্রারেড" },
-    { "label": "Interior", "value": "অভ্যন্তরীণ" },
-    { "label": "Jewelry", "value": "গহনা" },
-    { "label": "Journalism", "value": "সাংবাদিকতা" },
-    { "label": "Landscapes", "value": "দৃশ্যপট" },
-    { "label": "Lifestyle", "value": "লাইফস্টাইল" },
-    { "label": "Leaf", "value": "পাতা" },
-    { "label": "Long Exposure", "value": "দীর্ঘ এক্সপোজার" },
-    { "label": "Macro", "value": "ম্যাক্রো" },
-    { "label": "Medical", "value": "চিকিৎসা" },
-    { "label": "Minimalist", "value": "মিনিমালিস্ট" },
-    { "label": "Mirror Photography", "value": "আয়না ফটোগ্রাফি" },
-    { "label": "Misty", "value": "কুয়াশাচ্ছন্ন" },
-    { "label": "Mountains", "value": "পর্বত" },
-    { "label": "Music", "value": "সঙ্গীত" }, { "label": "Mango", "value": "আম" },
-    { "label": "Nature", "value": "প্রকৃতি" },
-    { "label": "Neon Lights", "value": "নিয়ন লাইট" },
-    { "label": "Newborn", "value": "নবজাতক" },
-    { "label": "Night", "value": "রাত্রিকালীন" },
-    { "label": "Ocean", "value": "সমুদ্র" },
-    { "label": "Panoramic", "value": "প্যানোরামিক" },
-    { "label": "Patterns", "value": "প্যাটার্ন" },
-    { "label": "Pet", "value": "পোষা প্রাণী" },
-    { "label": "Photojournalism", "value": "ফটোজার্নালিজম" },
-    { "label": "Portrait", "value": "পোর্ট্রেট" },
-    { "label": "Product", "value": "প্রোডাক্ট ফটোগ্রাফি" },
-    { "label": "Real Estate", "value": "রিয়েল এস্টেট" },
-    { "label": "Reflection", "value": "প্রতিফলন" },
-    { "label": "Religious", "value": "ধর্মীয়" },
-    { "label": "Romantic", "value": "রোমান্টিক" },
-    { "label": "Rural", "value": "গ্রামীণ" },
-    { "label": "River", "value": "নদী" },
-    { "label": "Science", "value": "বিজ্ঞান" },
-    { "label": "Seasons", "value": "ঋতু" },
-    { "label": "Sea", "value": "সমুদ্র" },
-    { "label": "Self-Portrait", "value": "সেলফ-পোর্ট্রেট" },
-    { "label": "Silhouette", "value": "সিলুয়েট" },
-    { "label": "Sky", "value": "আকাশ" },
-    { "label": "Social Media", "value": "সোশ্যাল মিডিয়া" },
-    { "label": "Space", "value": "মহাকাশ" },
-    { "label": "Sports", "value": "খেলাধুলা" },
-    { "label": "Still Life", "value": "স্থির জীবন" },
-    { "label": "Stock Photography", "value": "স্টক ফটোগ্রাফি" },
-    { "label": " Street Photography", "value": "স্ট্রিট ফটোগ্রাফি" },
-    { "label": "Studio", "value": "স্টুডিও" },
-    { "label": "Sunrise", "value": "সূর্যোদয়" },
-    { "label": "Sunset", "value": "সূর্যাস্ত" },
-    { "label": "Surreal", "value": "অতিপ্রাকৃত" },
-    { "label": "Technology", "value": "প্রযুক্তি" },
-    { "label": "Textures", "value": "টেক্সচার" },
-    { "label": "Theater", "value": "থিয়েটার" },
-    { "label": "Time-Lapse", "value": "টাইম-ল্যাপ্স" },
-    { "label": "Traditional", "value": "ঐতিহ্যবাহী" },
-    { "label": "Transportation", "value": "পরিবহন" },
-    { "label": "Travel", "value": "ভ্রমণ" },
-    { "label": "Tree", "value": "গাছ" },
-    { "label": "Underwater", "value": "জলের নিচে" },
-    { "label": "Urban", "value": "নগর" },
-    { "label": "Vintage", "value": "ভিনটেজ" },
-    { "label": "War", "value": "যুদ্ধ" },
-    { "label": "Wedding", "value": "বিবাহ" },
-    { "label": "Wildlife", "value": "বন্যপ্রাণী" },
-    { "label": "Winter", "value": "শীতকালীন" },
-    { "label": "X-Ray Photography", "value": "এক্স-রে ফটোগ্রাফি" },
-    { "label": "Zen Photography", "value": "জেন ফটোগ্রাফি" },
-    { "label": "Adventure", "value": "অ্যাডভেঞ্চার" },
-    { "label": "Animal Portraits", "value": "প্রাণী পোর্ট্রেট" },
-    { "label": "Classic", "value": "ক্লাসিক" },
-    { "label": "Cinematic", "value": "সিনেমাটিক" },
-    { "label": "Coastal", "value": "তটীয়" },
-    { "label": "Creative", "value": "সৃজনশীল" },
-    { "label": "Editorial Fashion", "value": "সম্পাদনা ফ্যাশন" },
-    { "label": "Environmental", "value": "পরিবেশগত" },
-    { "label": "Fine Art Portraits", "value": "ফাইন আর্ট পোর্ট্রেট" },
-    { "label": "Lifestyle Portraits", "value": "লাইফস্টাইল পোর্ট্রেট" },
-    { "label": "Real Life", "value": "প্রকৃত জীবন" },
-    { "label": "Timeless", "value": "অমর" },
-    { "label": "Urban Exploration", "value": "নগর অনুসন্ধান" }
+  {
+    "label": "Abstract",
+    "value": "অ্যাবস্ট্রাক্ট"
+  },
+  {
+    "label": "Aerial",
+    "value": "এয়ারিয়াল"
+  },
+  {
+    "label": "Animals",
+    "value": "প্রাণী"
+  },
+  {
+    "label": "Architecture",
+    "value": "স্থাপত্য"
+  },
+  {
+    "label": "Astrophotography",
+    "value": "খগোল ফটোগ্রাফি"
+  },
+  {
+    "label": "Automotive",
+    "value": "অটোমোটিভ"
+  },
+  {
+    "label": "Baby",
+    "value": "শিশু"
+  },
+  {
+    "label": "Black and White",
+    "value": "সাদা-কালো"
+  },
+  {
+    "label": "Boudoir",
+    "value": "বউডোয়ার"
+  },
+  {
+    "label": "Business",
+    "value": "ব্যবসা"
+  },
+  {
+    "label": "Beach",
+    "value": "সৈকত"
+  },
+  {
+    "label": "Boy",
+    "value": "ছেলে"
+  },
+  {
+    "label": "Cat",
+    "value": "বিড়াল"
+  },
+  {
+    "label": "Cloudy",
+    "value": "মেঘলা"
+  },
+  {
+    "label": "Candid",
+    "value": "ক্যান্ডিড"
+  },
+  {
+    "label": "Child",
+    "value": "শিশু"
+  },
+  {
+    "label": "Childhood",
+    "value": "শৈশব"
+  },
+  {
+    "label": "Cityscape",
+    "value": "শহরের দৃশ্য"
+  },
+  {
+    "label": "Commercial",
+    "value": "বাণিজ্যিক"
+  },
+  {
+    "label": "Conceptual",
+    "value": "ধারণাগত"
+  },
+  {
+    "label": "Concert",
+    "value": "কনসার্ট"
+  },
+  {
+    "label": "Cultural",
+    "value": "সাংস্কৃতিক"
+  },
+  {
+    "label": "Dance",
+    "value": "নৃত্য"
+  },
+  {
+    "label": "Documentary",
+    "value": "ডকুমেন্টারি"
+  },
+  {
+    "label": "Drone",
+    "value": "ড্রোন"
+  },
+  {
+    "label": "Dark",
+    "value": "অন্ধকার"
+  },
+  {
+    "label": "Editorial",
+    "value": "সম্পাদনা"
+  },
+  {
+    "label": "Event",
+    "value": "ইভেন্ট"
+  },
+  {
+    "label": "Family",
+    "value": "পরিবার"
+  },
+  {
+    "label": "Fashion",
+    "value": "ফ্যাশন"
+  },
+  {
+    "label": "Festival",
+    "value": "উৎসব"
+  },
+  {
+    "label": "Film Photography",
+    "value": "ফিল্ম ফটোগ্রাফি"
+  },
+  {
+    "label": "Floral",
+    "value": "ফুল"
+  },
+  {
+    "label": "Flower",
+    "value": "ফুল"
+  },
+  {
+    "label": "Fine Art",
+    "value": "ফাইন আর্ট"
+  },
+  {
+    "label": "Fireworks",
+    "value": "আতশবাজি"
+  },
+  {
+    "label": "Fitness",
+    "value": "ফিটনেস"
+  },
+  {
+    "label": "Fruit",
+    "value": "ফল"
+  },
+  {
+    "label": "Furniture",
+    "value": "ফার্নিচার"
+  },
+  {
+    "label": "Food",
+    "value": "খাবার"
+  },
+  {
+    "label": "Forests",
+    "value": "বন"
+  },
+  {
+    "label": "Glamour",
+    "value": "গ্ল্যামার"
+  },
+  {
+    "label": "Golden Hour",
+    "value": "গোল্ডেন আওয়ার"
+  },
+  {
+    "label": "Headshots",
+    "value": "হেডশট"
+  },
+  {
+    "label": "Historic",
+    "value": "ঐতিহাসিক"
+  },
+  {
+    "label": "Hiking",
+    "value": "হাইকিং"
+  },
+  {
+    "label": "Holiday",
+    "value": "ছুটি"
+  },
+  {
+    "label": "Industrial",
+    "value": "শিল্প"
+  },
+  {
+    "label": "Infrared",
+    "value": "ইনফ্রারেড"
+  },
+  {
+    "label": "Interior",
+    "value": "অভ্যন্তরীণ"
+  },
+  {
+    "label": "Jewelry",
+    "value": "গহনা"
+  },
+  {
+    "label": "Journalism",
+    "value": "সাংবাদিকতা"
+  },
+  {
+    "label": "Landscapes",
+    "value": "দৃশ্যপট"
+  },
+  {
+    "label": "Lifestyle",
+    "value": "লাইফস্টাইল"
+  },
+  {
+    "label": "Leaf",
+    "value": "পাতা"
+  },
+  {
+    "label": "Long Exposure",
+    "value": "দীর্ঘ এক্সপোজার"
+  },
+  {
+    "label": "Macro",
+    "value": "ম্যাক্রো"
+  },
+  {
+    "label": "Medical",
+    "value": "চিকিৎসা"
+  },
+  {
+    "label": "Minimalist",
+    "value": "মিনিমালিস্ট"
+  },
+  {
+    "label": "Mirror Photography",
+    "value": "আয়না ফটোগ্রাফি"
+  },
+  {
+    "label": "Misty",
+    "value": "কুয়াশাচ্ছন্ন"
+  },
+  {
+    "label": "Mountains",
+    "value": "পর্বত"
+  },
+  {
+    "label": "Music",
+    "value": "সঙ্গীত"
+  },
+  {
+    "label": "Mango",
+    "value": "আম"
+  },
+  {
+    "label": "Nature",
+    "value": "প্রকৃতি"
+  },
+  {
+    "label": "Neon Lights",
+    "value": "নিয়ন লাইট"
+  },
+  {
+    "label": "Newborn",
+    "value": "নবজাতক"
+  },
+  {
+    "label": "Night",
+    "value": "রাত্রিকালীন"
+  },
+  {
+    "label": "Ocean",
+    "value": "সমুদ্র"
+  },
+  {
+    "label": "Panoramic",
+    "value": "প্যানোরামিক"
+  },
+  {
+    "label": "Patterns",
+    "value": "প্যাটার্ন"
+  },
+  {
+    "label": "Pet",
+    "value": "পোষা প্রাণী"
+  },
+  {
+    "label": "Photojournalism",
+    "value": "ফটোজার্নালিজম"
+  },
+  {
+    "label": "Portrait",
+    "value": "পোর্ট্রেট"
+  },
+  {
+    "label": "Product",
+    "value": "প্রোডাক্ট ফটোগ্রাফি"
+  },
+  {
+    "label": "Real Estate",
+    "value": "রিয়েল এস্টেট"
+  },
+  {
+    "label": "Reflection",
+    "value": "প্রতিফলন"
+  },
+  {
+    "label": "Religious",
+    "value": "ধর্মীয়"
+  },
+  {
+    "label": "Romantic",
+    "value": "রোমান্টিক"
+  },
+  {
+    "label": "Rural",
+    "value": "গ্রামীণ"
+  },
+  {
+    "label": "River",
+    "value": "নদী"
+  },
+  {
+    "label": "Science",
+    "value": "বিজ্ঞান"
+  },
+  {
+    "label": "Seasons",
+    "value": "ঋতু"
+  },
+  {
+    "label": "Sea",
+    "value": "সমুদ্র"
+  },
+  {
+    "label": "Self-Portrait",
+    "value": "সেলফ-পোর্ট্রেট"
+  },
+  {
+    "label": "Silhouette",
+    "value": "সিলুয়েট"
+  },
+  {
+    "label": "Sky",
+    "value": "আকাশ"
+  },
+  {
+    "label": "Social Media",
+    "value": "সোশ্যাল মিডিয়া"
+  },
+  {
+    "label": "Space",
+    "value": "মহাকাশ"
+  },
+  {
+    "label": "Sports",
+    "value": "খেলাধুলা"
+  },
+  {
+    "label": "Still Life",
+    "value": "স্থির জীবন"
+  },
+  {
+    "label": "Stock Photography",
+    "value": "স্টক ফটোগ্রাফি"
+  },
+  {
+    "label": " Street Photography",
+    "value": "স্ট্রিট ফটোগ্রাফি"
+  },
+  {
+    "label": "Studio",
+    "value": "স্টুডিও"
+  },
+  {
+    "label": "Sunrise",
+    "value": "সূর্যোদয়"
+  },
+  {
+    "label": "Sunset",
+    "value": "সূর্যাস্ত"
+  },
+  {
+    "label": "Surreal",
+    "value": "অতিপ্রাকৃত"
+  },
+  {
+    "label": "Technology",
+    "value": "প্রযুক্তি"
+  },
+  {
+    "label": "Textures",
+    "value": "টেক্সচার"
+  },
+  {
+    "label": "Theater",
+    "value": "থিয়েটার"
+  },
+  {
+    "label": "Time-Lapse",
+    "value": "টাইম-ল্যাপ্স"
+  },
+  {
+    "label": "Traditional",
+    "value": "ঐতিহ্যবাহী"
+  },
+  {
+    "label": "Transportation",
+    "value": "পরিবহন"
+  },
+  {
+    "label": "Travel",
+    "value": "ভ্রমণ"
+  },
+  {
+    "label": "Tree",
+    "value": "গাছ"
+  },
+  {
+    "label": "Underwater",
+    "value": "জলের নিচে"
+  },
+  {
+    "label": "Urban",
+    "value": "নগর"
+  },
+  {
+    "label": "Vintage",
+    "value": "ভিনটেজ"
+  },
+  {
+    "label": "War",
+    "value": "যুদ্ধ"
+  },
+  {
+    "label": "Wedding",
+    "value": "বিবাহ"
+  },
+  {
+    "label": "Wildlife",
+    "value": "বন্যপ্রাণী"
+  },
+  {
+    "label": "Winter",
+    "value": "শীতকালীন"
+  },
+  {
+    "label": "X-Ray Photography",
+    "value": "এক্স-রে ফটোগ্রাফি"
+  },
+  {
+    "label": "Zen Photography",
+    "value": "জেন ফটোগ্রাফি"
+  },
+  {
+    "label": "Adventure",
+    "value": "অ্যাডভেঞ্চার"
+  },
+  {
+    "label": "Animal Portraits",
+    "value": "প্রাণী পোর্ট্রেট"
+  },
+  {
+    "label": "Classic",
+    "value": "ক্লাসিক"
+  },
+  {
+    "label": "Cinematic",
+    "value": "সিনেমাটিক"
+  },
+  {
+    "label": "Coastal",
+    "value": "তটীয়"
+  },
+  {
+    "label": "Creative",
+    "value": "সৃজনশীল"
+  },
+  {
+    "label": "Editorial Fashion",
+    "value": "সম্পাদনা ফ্যাশন"
+  },
+  {
+    "label": "Environmental",
+    "value": "পরিবেশগত"
+  },
+  {
+    "label": "Fine Art Portraits",
+    "value": "ফাইন আর্ট পোর্ট্রেট"
+  },
+  {
+    "label": "Lifestyle Portraits",
+    "value": "লাইফস্টাইল পোর্ট্রেট"
+  },
+  {
+    "label": "Real Life",
+    "value": "প্রকৃত জীবন"
+  },
+  {
+    "label": "Timeless",
+    "value": "অমর"
+  },
+  {
+    "label": "Urban Exploration",
+    "value": "নগর অনুসন্ধান"
+  },
+  {
+    "label": "Black",
+    "value": "কাল"
+  }
 ]
