@@ -538,5 +538,9 @@
   {
     "label": "Green",
     "value": "সবুজ"
+  },
+  {
+    "label": "Blue",
+    "value": "নীল"
   }
 ]
