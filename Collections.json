@@ -606,5 +606,9 @@
   {
     "label": "Book",
     "value": "বই"
+  },
+  {
+    "label": "Mosque",
+    "value": "মসজিদ"
   }
 ]
