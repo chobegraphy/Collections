@@ -646,5 +646,9 @@
   {
     "label": "Boat",
     "value": "নৌকা "
+  },
+  {
+    "label": "Insect",
+    "value": "কীটপতঙ্গ "
   }
 ]
