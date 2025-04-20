@@ -706,5 +706,9 @@
   {
     "label": "Morning ",
     "value": "সকাল"
+  },
+  {
+    "label": "Flag",
+    "value": "পতাকা"
   }
 ]
